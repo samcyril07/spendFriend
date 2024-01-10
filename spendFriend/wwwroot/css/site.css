@@ -262,17 +262,6 @@ img.profile-pic {
         line-height: 1;
     }
 
-/*Logo*/
-.logo-wrapper {
-    height: 70px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.app-logo {
-    padding: 10px 10px;
-}
 
 /*Menu*/
 #menu {
